@@ -1,9 +1,13 @@
 # telegram-m3u_extension-manipulation-PoC
 
 
-![My POC](https://github.com/De3vil/telegram-m3u_extension-manipulation-PoC/blob/main/src/output.mp4)
 
 
+
+<video width="600" controls>
+  <source src="src/output.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ***
 <h4> Abdulrahman Mohammed </h4>
