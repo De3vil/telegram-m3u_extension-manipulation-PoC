@@ -5,7 +5,7 @@
 
 
 <video width="600" controls>
-  <source src="src/output.mp4" type="video/mp4">
+  <source src="https://github.com/De3vil/telegram-m3u_extension-manipulation-PoC/blob/80b49ca0580b9a767d66c8f9218230d2a37eb75b/src/output.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
