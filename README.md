@@ -1,6 +1,7 @@
 # telegram-m3u_extension-manipulation-PoC
 
 
+![My POC](https://github.com/De3vil/telegram-m3u_extension-manipulation-PoC/blob/main/src/output.mp4)
 
 
 
