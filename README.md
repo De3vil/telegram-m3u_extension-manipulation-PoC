@@ -3,7 +3,7 @@
 
 
 <video width="600" controls>
-  <source src="https://private-user-images.githubusercontent.com/47694344/428670189-51d4d603-4c12-4593-833d-49476e20ab20.mp4?" type="video/mp4">
+  <source src="https://private-user-images.githubusercontent.com/47694344/428670189-51d4d603-4c12-4593-833d-49476e20ab20.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
