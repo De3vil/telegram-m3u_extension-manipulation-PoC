@@ -2,11 +2,8 @@
 
 
 
+[![Download Video](https://img.icons8.com/ios/452/download.png)](https://github.com/De3vil/telegram-m3u_extension-manipulation-PoC/raw/main/src/output.mp4)
 
-<video width="600" controls>
-  <source src="https://raw.githubusercontent.com/De3vil/telegram-m3u_extension-manipulation-PoC/main/src/output.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 ***
